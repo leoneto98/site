@@ -15,6 +15,12 @@
 <loc>http://localhost:4000/archive.html</loc>
 </url>
 <url>
+<loc>http://localhost:4000/dataset.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/download.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/facility.html</loc>
 </url>
 <url>
@@ -25,6 +31,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/sensors.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/team.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tutorial.html</loc>
