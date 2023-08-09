@@ -22,7 +22,7 @@ The dataset contains more than 2 hours of recording, which totals more than 280G
 dataset provides a valuable resource for researchers in the field of autonomous vehicles to test and improve their
 algorithms in adverse weather conditions, as well as explore the simulation-to-reality gap.
 
-
+![TeXt Theme](/images/ego_front.png)
 <div class="swiper my-3 swiper-demo swiper-demo--image swiper-demo--3">
   <div class="swiper__wrapper">
     <div class="swiper__slide"><img class="lightbox-ignore" src="/images/ego_front.png"/></div>
