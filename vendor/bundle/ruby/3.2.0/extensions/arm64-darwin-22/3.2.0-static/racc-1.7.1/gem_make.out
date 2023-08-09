@@ -1,0 +1,20 @@
+current directory: /Users/leoneto98/MsC data/TWICE_website/vendor/bundle/ruby/3.2.0/gems/racc-1.7.1/ext/racc/cparse
+/Users/leoneto98/.rubies/ruby-3.2.2/bin/ruby extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/leoneto98/MsC data/TWICE_website/vendor/bundle/ruby/3.2.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230807-60061-yj3kjv sitelibdir\=./.gem.20230807-60061-yj3kjv clean
+
+current directory: /Users/leoneto98/MsC data/TWICE_website/vendor/bundle/ruby/3.2.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230807-60061-yj3kjv sitelibdir\=./.gem.20230807-60061-yj3kjv
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/leoneto98/MsC data/TWICE_website/vendor/bundle/ruby/3.2.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230807-60061-yj3kjv sitelibdir\=./.gem.20230807-60061-yj3kjv install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20230807-60061-yj3kjv/racc
+
+current directory: /Users/leoneto98/MsC data/TWICE_website/vendor/bundle/ruby/3.2.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230807-60061-yj3kjv sitelibdir\=./.gem.20230807-60061-yj3kjv clean
