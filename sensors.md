@@ -30,7 +30,7 @@ G PRO, 100Hz capture frequency, resolution
 olution 0.008m, 10Hz capture frequency
 
 <p>
- <img class="image-inline" src="/images/ego_sensors.png" alt="Descrição da imagem" />
+ <img class="image-inline" src="./images/ego_sensors.png" alt="Descrição da imagem" />
 </p>
 
 
