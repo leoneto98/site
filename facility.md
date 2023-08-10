@@ -17,7 +17,7 @@ aside:
 CARISSMA's outdoor test facility, located in the northeast of Ingolstadt (Germany), is used for tests with vehicles and dummies of road users. Such tests are required for the development of methods, algorithms and components as well as for their validation. The use of the systems under real conditions is intended to ensure that they are suitable for applications in vehicle safety. More can be found at: [CARISSMAOutdoor](https://www.thi.de/en/research/carissma/laboratories/outdoor-test-facility/)
 
 <p>
- <img class="image-inline" src="/images/outdoor_carissma.png" alt="CARISSMA Outdoor" />
+ <img class="image-inline" src="./images/outdoor_carissma.png" alt="CARISSMA Outdoor" />
 </p>
 
 ## CARISSMA Hardware-in-the-loop Laboratory
