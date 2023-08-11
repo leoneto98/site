@@ -13,7 +13,9 @@ key: team
 aside:
   toc: true
 ---
-
+ <p>
+ <img class="image-inline" src="./images/team.png" alt="TWICE Team" />
+</p>
 
 
 <div class="item">
