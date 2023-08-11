@@ -67,6 +67,11 @@ showFrame=True
 showTimestamp=True
 Camera_project.project_cuboid_image(camera_path,frame,projectCuboid,showImage,saveVideo,saveImage,showFrame,showTimestamp,pathSaveImage)
 ```
+### Output
+<video width="640" height="360" controls>
+  <source src="{{ site.baseurl }}/images/car_cuboid.m4v" type="video/mp4">
+  Your browser does not support this video format.
+</video>
 
 ## Radar
 With the code below you can generate a video file from the Radar data:
@@ -86,6 +91,19 @@ if radar_mode == "cluster":
     radar_osi_plot.radar_cluster_plot(radar_path,path_radar_video,save_video,save_frame,frame_n,count_points,covariance,segmentation_data,text)
 ```
 There are several parameters that you can choose to have appear in the video or export to a .csv file. In cluster mode, it is possible to count how many cluster points are inside the detected object, and you can also choose whether to plot the cluster covariance. In object list mode, you can calculate the Intersection over Union of the object with the radar detection. By setting the segmetation_data variable to True, a .csv file will be generated with the data of the variables just described.
+
+### Output
+#### Cluster
+<video width="640" height="360" controls>
+  <source src="{{ site.baseurl }}/images/radar_cluster.m4v" type="video/mp4">
+  Your browser does not support this video format.
+</video>
+
+#### Object List
+<video width="640" height="360" controls>
+  <source src="{{ site.baseurl }}/images/radar_object_list.m4v" type="video/mp4">
+  Your browser does not support this video format.
+</video>
 
 ## LiDAR
 
