@@ -15,9 +15,6 @@
 <loc>http://localhost:4000/archive.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/dataset.html</loc>
-</url>
-<url>
 <loc>http://localhost:4000/download.html</loc>
 </url>
 <url>
@@ -28,6 +25,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/scenarios.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/sensors.html</loc>

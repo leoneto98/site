@@ -2,23 +2,19 @@
 layout: page
 titles:
   # @start locale config
-  en      : &EN       Dataset
+  en      : &EN       Scenarios
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
 
   # @end locale config
-key: dataset
+key: scenarios
 aside:
   toc: true
 ---
 
-Basic description of the test scenarios, videos from the camera and radar data. bouding box examples.
-## Scenarios
-The use of test scenarios belonging to the EURONCAP test protocols enables valid and useful
-comparisons between tests in different facilities and weather
-conditions.
+
 ### EURONCAP Scenarios
 In this work we recorded eight different test scenarios, three of
 which are inspired in the EURONCAP test protocols:
@@ -86,3 +82,4 @@ to get the ground-truth position.
   <source src="{{ site.baseurl }}/images/truck_perpendicular_video.m4v" type="video/mp4">
   Your browser does not support this video format.
 </video>
+

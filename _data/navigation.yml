@@ -13,13 +13,13 @@ header:
 
   - titles:
       # Título do tutorial nas diferentes localidades
-      en      : &EN       Dataset
+      en      : &EN       Scenarios
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
       # Adicione outras localidades, se necessário
-    url     : /dataset.html  # URL da página do tutorial
+    url     : /scenarios.html  # URL da página do tutorial
     
   - titles:
       # Título do tutorial nas diferentes localidades
