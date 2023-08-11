@@ -42,7 +42,8 @@ which are inspired in the EURONCAP test protocols:
   <source src="{{ site.baseurl }}/images/CCRs_video.m4v" type="video/mp4">
   Your browser does not support this video format.
 </video>
-## Others Scenarios:
+
+### Others Scenarios:
 
 With the ego-vehicle static was recorded four types of objects:
 car, cyclist, truck and pedestrian.
