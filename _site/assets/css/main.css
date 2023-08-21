@@ -1,3 +1,4 @@
+@charset "UTF-8";
 figure.highlight::before {
   color: #8e908c !important;
   background-color: #f7f7f7 !important;
@@ -6198,6 +6199,12 @@ html,
 .image-inline {
   max-width: 100%;
   height: auto;
+}
+
+.acknowledgment {
+  font-size: 0.8rem; /* Tamanho da fonte menor */
+  color: #777; /* Cor do texto do reconhecimento */
+  margin-top: 1rem; /* Espaçamento superior */
 }
 
 /* end custom scss snippet */

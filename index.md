@@ -23,6 +23,12 @@ The dataset contains more than 2 hours of recording, which totals more than 280G
 dataset provides a valuable resource for researchers in the field of autonomous vehicles to test and improve their
 algorithms in adverse weather conditions, as well as explore the simulation-to-reality gap.
 
+[ROADVIEW Project](https://roadview-project.eu/)
+<div class="acknowledgment"><div class="acknowledgment">
+ Funded by the European Union (grant no. 101069576). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Climate, Infrastructure and Environment Executive Agency (CINEA). Neither the European Union nor the granting authority can be held responsible for them.
+ 
+UK and Swiss participants in this project are supported by Innovate UK (contract no. 10045139) and the Swiss State Secretariat for Education, Research and Innovation (contract no. 22.00123) respectively.
+</div>
 
 
 

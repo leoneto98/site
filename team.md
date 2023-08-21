@@ -35,7 +35,7 @@ aside:
     </div>
   </div>
 </div>
-[CV Lattes](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=995FEADB51559C266842BC8EE7C48DDA#)
+[CV Lattes]( https://lattes.cnpq.br/0231870257297632)
 
 <div class="item">
   <div class="item__image">
@@ -57,7 +57,7 @@ aside:
 
 <div class="item">
   <div class="item__image">
-    <img class="image" src="./images/yuri_photo.jpeg"/>
+    <img class="image" src="./images/yuri_photo.jpg"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -111,7 +111,7 @@ aside:
 
 <div class="item">
   <div class="item__image">
-    <img class="image" src="./images/werner_photo.jpeg"/>
+    <img class="image" src="./images/werner_photo.jpg"/>
   </div>
   <div class="item__content">
     <div class="item__header">
