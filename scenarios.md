@@ -17,7 +17,7 @@ aside:
 
 ### EURONCAP Scenarios
 In this work we recorded eight different test scenarios, three of
-which are inspired in the EURONCAP test protocols:
+which are inspired in the EURONCAP test protocols. For each test scenario on the real proving ground there is a digital twin with two types of camera (Direct Data Injection and Over-the-Air), IMU data, ground-truth of objects and radar data recorded in a HiL environment using the same hardware as the real test:
 
 - Car-to-Bicyclist Longitudinal Adult 50% (CBLA-50):
 

@@ -40,4 +40,18 @@ The data is acquired in real-time using ROS running on the Nvidia DRIVEPX2, in w
 
 The position of the objects and the ego-vehicle is given in a relative coordinate system with respect to a reference point on the track. The sensors use the position of the ego-vehicle as the reference frame, following the convention shown in Figure above. The X-axis points forward, the Y-axis points to the left, and the Z-axis points upward.
 
+<strong>Laboratory.</strong> In the laboratory, the HIL test environment consists of the same hardware and software stack for the environment perception sensors (except the lidar and IMU), and includes the following additional equipment:
 
+• NI PXIe-8115 Controller;
+
+• NI PXIe-1085 Chassis with CAN modules (National Instruments);
+
+• Vehicle Radar Test System (VRTS) (Konrad Technologies);
+
+• Video Interface Box (IPG Automotive);
+
+• Camera-Box ([article](https://ieeexplore.ieee.org/document/8519598));
+
+• Environment Simulation Software CarMaker (IPG Automotive);
+
+As it can be seen, the setup is a hardware-in-the-Loop test environment, in which real sensors (radar and camera) are stimulated so that they can perceive the objects in the environment simulation software (CarMaker).

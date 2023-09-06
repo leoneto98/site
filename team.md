@@ -29,7 +29,7 @@ aside:
     <div class="item__description">
       <p>
     
-    With a bachelor's degree in physics from the Federal University of Paraná (UFPR). The development of the TWICE Dataset is part of his master's thesis. He is pursuing his master's degree in the Department of Electrical Engineering at the UFPR under the supervision of Prof. Dr. Eduardo Parente Ribeiro. However, the dataset's development took place during his time at Technische Hochschule Ingolstadt (THI) under the supervision of Prof. Dr.-Ing. Werner Huber.
+    Has a bachelor's degree in physics from the Federal University of Paraná (UFPR). The development of the TWICE Dataset is part of his master's thesis. He is pursuing his master's degree in the Department of Electrical Engineering at the UFPR under the supervision of Prof. Dr. Eduardo Parente Ribeiro. However, the dataset's development took place during his time at Technische Hochschule Ingolstadt (THI) under the supervision of Prof. Dr.-Ing. Werner Huber.
 
 </p>
     </div>
@@ -75,7 +75,7 @@ aside:
 
 <div class="item">
   <div class="item__image">
-    <img class="image" src="./images/maikol_photo.jpeg"/>
+    <img class="image" src="./images/maikol_photo.jpg"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -84,7 +84,7 @@ aside:
     <div class="item__description">
       <p>
     
-    Maikol description
+    Has a Double Master's degree from the Federal University of Santa Catarina and the Technische Hochschule Ingolstadt. Graduated in Automotive Engineering at UFSC - Joinville Campus. Has experience in the automotive area mainly in vehicle dynamics and Driving Assistant Systems. Interned at Whirlpool S.A. - Embraco Unit, in the Machining Process Development cell. Developed research in the Vehicular Dynamic and Vibrations area at the Acoustic and Vibration and Vehicle Systems laboratories as a Scientific Initiation scholarship holder and as a Master scholarship holder from FAPESC. Currently works as a research fellow at the Hardware-in-the-Loop laboratory of the CARISSMA Institute of Automated Driving (C-IAD), researching homologation of driving assistant systems supported by simulation.
 
 </p>
     </div>
