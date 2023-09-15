@@ -93,7 +93,7 @@ aside:
 
 <div class="item">
   <div class="item__image">
-    <img class="image" src="./images/parente_photo.jpeg"/>
+    <img class="image" src="./images/parente_photo.jpg"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -102,7 +102,7 @@ aside:
     <div class="item__description">
       <p>
     
-    Parente description
+    Holds Ph.D, M.Sc.and Bachelor’s degrees in Electrical Engineering earned from the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). He was a visiting researcher at Vanderbilt University, USA, in 1995. He has been a Professor with the Electrical Engineering Department at Universidade Federal do Parana, Brazil, since 1997. In 2006, he was a Visiting Professor with The University of British Columbia, Canada. His research interests include electronic instrumentation, signal processing, machine learning, and data communication.
 
 </p>
     </div>
