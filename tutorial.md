@@ -100,6 +100,7 @@ There are several parameters that you can choose to have appear in the video or 
 </video>
 
 #### Object List
+
 <video width="640" height="360" controls>
   <source src="{{ site.baseurl }}/images/radar_object_list.m4v" type="video/mp4">
   Your browser does not support this video format.
