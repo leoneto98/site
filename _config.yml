@@ -20,9 +20,9 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : <b>TWICE</b> Dataset 
+title   : Leonardo Novicki Neto 
 description: > # this means to ignore newlines until "Language & timezone"
-  TWICE Dataset website.
+  Leonardo Novicki Neto personal page.
 
 
 ## => Language and Timezone

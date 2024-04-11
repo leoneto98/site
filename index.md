@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "TWICE Dataset: Digital Twin of Test Scenarios in a Controlled Environment"
+title: "Leonardo Novicki Neto"
 article_header:
   type: overlay
   theme: dark
@@ -8,7 +8,7 @@ article_header:
   background_image:
     gradient: 'linear-gradient(135deg, rgba(128, 128, 128, .4), rgba(0, 0, 128, .4))'
 
-    src: /images/twice_scenarios.png
+    src: 
 
 
 ---
