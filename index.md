@@ -1,30 +1,40 @@
 ---
-layout: article
-title: "Leonardo Novicki Neto"
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(128, 128, 128, .4), rgba(0, 0, 128, .4))'
+layout: page
+titles:
+  # @start locale config
+  en      : &EN       
+  en-GB   : *EN
+  en-US   : *EN
+  en-CA   : *EN
+  en-AU   : *EN
 
-    src: 
-
-
+  # @end locale config
+key: team
+aside:
+  toc: true
 ---
 
-We have developed a comprehensive dataset that includes camera, radar,
-LiDAR, inertial measurement unit (IMU), and GPS sensor data recorded under adverse weather conditions in a
-controlled environment. This dataset also includes the digital twin of each test scenario made in a Hardware-in-
-the-Loop setup. We recorded test scenarios, some of which are catalogued by EURONCAP (European New Car
-Assessment Programme), using objects of interest such as car, cyclist, truck and pedestrian. All scenarios were
-recorded in the outdoor facilities of the CARISSMA Institute of Automated Driving in Ingolstadt, Germany.
-The dataset contains more than 2 hours of recording, which totals more than 280GB of data. Overall, this
-dataset provides a valuable resource for researchers in the field of autonomous vehicles to test and improve their
-algorithms in adverse weather conditions, as well as explore the simulation-to-reality gap.
 
 
+<div class="item">
+  <div class="item__image">
+    <img class="image" src="./images/leonardo_photo.jpeg"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4></h4>
+    </div>
+    <div class="item__description">
+      <p>
+    
+I hold a Bachelor's degree in Physics from the Federal University of Paraná (UFPR), driven by my passion for science and technology. Transitioning into the tech and data market, I pursued a Master's degree in Electrical Engineering at UFPR, conducting my research at the CARISSMA Institute of Automated Driving in Germany under the supervision of Professors Eduardo Parente Ribeiro and Werner Hurber.
+</p>
 
+My research focused on creating a multimodal dataset for autonomous vehicles, consisting of real-world test track data and corresponding digital twins. Working with ROS (Robot Operating System), MATLAB, and Python, I developed expertise in data acquisition, manipulation, and transformation across various formats. I gained hands-on experience in Computer Vision, annotating dataset images using object detection algorithms like YOLO and OpenCV, and implementing genetic algorithms for supervised data projection.
+My work also involved an analysis using semantic segmentation algorithms to assess the simulation-to-reality gap
 
-
-
+</p>
+    </div>
+  </div>
+</div>
+[CV Lattes]( https://lattes.cnpq.br/0231870257297632)
