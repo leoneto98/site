@@ -332,48 +332,8 @@
 <!-- end custom main top snippet -->
 <article itemscope itemtype="http://schema.org/WebPage"><div class="article__header"><header><h1>Master</h1></header></div><meta itemprop="headline" content="Master"><meta itemprop="author" content="Leonardo Novicki Neto"/><div class="js-article-content"><p>My master degree is from the Federal University of Paraná (UFPR), but the work was developed during my period in Germany in collaboration with the team of Professor <a href="https://www.thi.de/en/carissma/personnel/prof-dr-werner-huber/">Werner Huber</a> in the <a href="https://www.thi.de/en/research/carissma/c-iad/">CARISSMA Institute of Automated Driving</a>.</p>
 
-<p>You can download my dissertation full <a href="https://acervodigital.ufpr.br/xmlui/handle/1884/87239">here</a>.</p>
+<p>You can download my dissertation <a href="https://acervodigital.ufpr.br/xmlui/handle/1884/87239">here</a>.</p>
 
-<p>The sensor setup for the real-world tests scenarios was mounted
-on a Smart ForTwo electric vehicle, as shown in the Figures bellow,
-and consists of the following sensors:</p>
-<ul>
-  <li>Camera Sekonix SF3325-100, 1920x1232 resolution
-(2.3M Pixel), 30Hz capture frequency, H:60°;V:36,6°</li>
-  <li>Radar Continental ARS408-21, FMCW, ≤ 250m range,
-13Hz capture frequency, 77 GHz operating frequency
-band, ±0.1 km/h vel.accuracy</li>
-  <li>LiDAR Ouster OS1-128, 10hz capture frequency, resolution 1024.</li>
-  <li>Inertial Measurement Unit (IMU) Gensys ADMA-
-G PRO, 100Hz capture frequency, resolution
-0.01m/0.005°</li>
-  <li>GNSS (Global Navigation Satellite System) SP80, res-
-olution 0.008m, 10Hz capture frequency</li>
-</ul>
-
-<p>
- <img class="image-inline" src="./images/ego_sensors.png" alt="Descrição da imagem" />
-</p>
-
-<p>The data is acquired in real-time using ROS running on the Nvidia DRIVEPX2, in which all sensors are connected. The radar was positioned in front bumper of the ego-vehicle, the camera inside the car attached to the windshield, the LiDAR on the car’s roof, and the IMU in the trunk alongside the ECU. To capture the precise location of the pedestrian, cyclist, and truck, we utilized GNSS SP80 sensor. When the object of interest was a car, we used an identical Smart ForTwo vehicle equipped with the same IMU. The radar data was recorded with two different types of operation mode: cluster which is a point cloud where each point is a radar reflection and object list which these reflections are condensed into bounding boxes objects. In both cases, radar detections have velocity, position and RCS (Radar cross Section).</p>
-
-<p>The position of the objects and the ego-vehicle is given in a relative coordinate system with respect to a reference point on the track. The sensors use the position of the ego-vehicle as the reference frame, following the convention shown in Figure above. The X-axis points forward, the Y-axis points to the left, and the Z-axis points upward.</p>
-
-<p><strong>Laboratory.</strong> In the laboratory, the HIL test environment consists of the same hardware and software stack for the environment perception sensors (except the lidar and IMU), and includes the following additional equipment:</p>
-
-<p>• NI PXIe-8115 Controller;</p>
-
-<p>• NI PXIe-1085 Chassis with CAN modules (National Instruments);</p>
-
-<p>• Vehicle Radar Test System (VRTS) (Konrad Technologies);</p>
-
-<p>• Video Interface Box (IPG Automotive);</p>
-
-<p>• Camera-Box (<a href="https://ieeexplore.ieee.org/document/8519598">article</a>);</p>
-
-<p>• Environment Simulation Software CarMaker (IPG Automotive);</p>
-
-<p>As it can be seen, the setup is a hardware-in-the-Loop test environment, in which real sensors (radar and camera) are stimulated so that they can perceive the objects in the environment simulation software (CarMaker).</p>
 </div><section class="page__comments d-print-none"></section></article><!-- start custom main bottom snippet -->
 
 <!-- end custom main bottom snippet -->

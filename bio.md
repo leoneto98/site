@@ -34,6 +34,19 @@ My work also involved an analysis using semantic segmentation algorithms to asse
     </div>
   </div>
 </div>
-## [Curriculum vitæ](Leonardo_Novicki_Neto_cv.pdf)
+# [CV](Leonardo_Novicki_Neto_cv.pdf)
 
 ## Education
+### Universidade Federal do Paraná (UFPR), Physics Degree
+Aug 2016 — Oct 2021
+### Universidade Federal do Paraná (UFPR), Master in Electrical Engineering
+Apr 2022 — Dec 2023
+### Technische Hochschule Ingolstadt (THI), Sandwich Master (Autonomous Driving)
+Sep 2022 — Mar 2023
+
+## Courses
+### Machine Learning Specialization, Stanford/DeepLearning.AI
+Feb 2024 — Mar 2024
+
+## Certifications
+### Azure DP-900 (in progress)
