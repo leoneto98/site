@@ -1,11 +1,11 @@
 <!DOCTYPE html><html lang="en">
   <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"><title>Sensors Setup - Leonardo Novicki Neto</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"><title>Biography - Leonardo Novicki Neto</title>
 
 <meta name="description" content="Leonardo Novicki Neto personal page.
 ">
-<link rel="canonical" href="http://localhost:4000/sensors.html"><link rel="alternate" type="application/rss+xml" title="Leonardo Novicki Neto" href="/feed.xml"><!-- start favicons snippet, use https://realfavicongenerator.net/ --><link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"><link rel="manifest" href="/assets/site.webmanifest"><link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#fc4d50"><link rel="shortcut icon" href="/assets/favicon.ico">
+<link rel="canonical" href="http://localhost:4000/bio.html"><link rel="alternate" type="application/rss+xml" title="Leonardo Novicki Neto" href="/feed.xml"><!-- start favicons snippet, use https://realfavicongenerator.net/ --><link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"><link rel="manifest" href="/assets/site.webmanifest"><link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#fc4d50"><link rel="shortcut icon" href="/assets/favicon.ico">
 
 <meta name="msapplication-TileColor" content="#ffc40d"><meta name="msapplication-config" content="/assets/browserconfig.xml">
 
@@ -319,7 +319,7 @@
        y="61.492138" /></g></svg>
 <a title="Leonardo Novicki Neto personal page.
 " href="/">Leonardo Novicki Neto</a></div><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></div><nav class="navigation">
-        <ul><li class="navigation__item navigation__item--active"><a href="/sensors.html">Sensors Setup</a></li><li class="navigation__item"><a href="/scenarios.html">Scenarios</a></li><li class="navigation__item"><a href="/facility.html">Facilities</a></li><li class="navigation__item"><a href="/team.html">Team</a></li><li class="navigation__item"><a href="/tutorial.html">Tutorial</a></li><li class="navigation__item"><a href="/download.html">Download</a></li><li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li></ul>
+        <ul><li class="navigation__item navigation__item--active"><a href="/bio.html">Bio</a></li><li class="navigation__item"><a href="/master.html">Master</a></li><li class="navigation__item"><a href="/projects.html">Projects</a></li><li class="navigation__item"><a href="/contact.html">Contact</a></li><li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li></ul>
       </nav></div>
   </header>
 </div><div class="page__content"><div class ="main"><div class="grid grid--reverse">
@@ -330,46 +330,30 @@
               <div class="col-main cell cell--auto"><!-- start custom main top snippet -->
 
 <!-- end custom main top snippet -->
-<article itemscope itemtype="http://schema.org/WebPage"><div class="article__header"><header><h1>Sensors Setup</h1></header></div><meta itemprop="headline" content="Sensors Setup"><meta itemprop="author" content="Leonardo Novicki Neto"/><div class="js-article-content"><p>The sensor setup for the real-world tests scenarios was mounted
-on a Smart ForTwo electric vehicle, as shown in the Figures bellow,
-and consists of the following sensors:</p>
-<ul>
-  <li>Camera Sekonix SF3325-100, 1920x1232 resolution
-(2.3M Pixel), 30Hz capture frequency, H:60°;V:36,6°</li>
-  <li>Radar Continental ARS408-21, FMCW, ≤ 250m range,
-13Hz capture frequency, 77 GHz operating frequency
-band, ±0.1 km/h vel.accuracy</li>
-  <li>LiDAR Ouster OS1-128, 10hz capture frequency, resolution 1024.</li>
-  <li>Inertial Measurement Unit (IMU) Gensys ADMA-
-G PRO, 100Hz capture frequency, resolution
-0.01m/0.005°</li>
-  <li>GNSS (Global Navigation Satellite System) SP80, res-
-olution 0.008m, 10Hz capture frequency</li>
-</ul>
-
-<p>
- <img class="image-inline" src="./images/ego_sensors.png" alt="Descrição da imagem" />
+<article itemscope itemtype="http://schema.org/WebPage"><div class="article__header"><header><h1>Biography</h1></header></div><meta itemprop="headline" content="Biography"><meta itemprop="author" content="Leonardo Novicki Neto"/><div class="js-article-content"><div class="item">
+  <div class="item__image">
+    <img class="image" src="./images/leonardo_photo.jpeg" />
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4></h4>
+    </div>
+    <div class="item__description">
+      <p>
+    
+I hold a Bachelor's degree in Physics from the Federal University of Paraná (UFPR), driven by my passion for science and technology. Transitioning into the tech and data market, I pursued a Master's degree in Electrical Engineering at UFPR, conducting my research at the CARISSMA Institute of Automated Driving in Germany under the supervision of Professors Eduardo Parente Ribeiro and Werner Hurber.
 </p>
 
-<p>The data is acquired in real-time using ROS running on the Nvidia DRIVEPX2, in which all sensors are connected. The radar was positioned in front bumper of the ego-vehicle, the camera inside the car attached to the windshield, the LiDAR on the car’s roof, and the IMU in the trunk alongside the ECU. To capture the precise location of the pedestrian, cyclist, and truck, we utilized GNSS SP80 sensor. When the object of interest was a car, we used an identical Smart ForTwo vehicle equipped with the same IMU. The radar data was recorded with two different types of operation mode: cluster which is a point cloud where each point is a radar reflection and object list which these reflections are condensed into bounding boxes objects. In both cases, radar detections have velocity, position and RCS (Radar cross Section).</p>
+My research focused on creating a multimodal dataset for autonomous vehicles, consisting of real-world test track data and corresponding digital twins. Working with ROS (Robot Operating System), MATLAB, and Python, I developed expertise in data acquisition, manipulation, and transformation across various formats. I gained hands-on experience in Computer Vision, annotating dataset images using object detection algorithms like YOLO and OpenCV, and implementing genetic algorithms for supervised data projection.
+My work also involved an analysis using semantic segmentation algorithms to assess the simulation-to-reality gap
 
-<p>The position of the objects and the ego-vehicle is given in a relative coordinate system with respect to a reference point on the track. The sensors use the position of the ego-vehicle as the reference frame, following the convention shown in Figure above. The X-axis points forward, the Y-axis points to the left, and the Z-axis points upward.</p>
 
-<p><strong>Laboratory.</strong> In the laboratory, the HIL test environment consists of the same hardware and software stack for the environment perception sensors (except the lidar and IMU), and includes the following additional equipment:</p>
+    </div>
+  </div>
+</div>
+<h2 id="curriculum-vitæ"><a href="Leonardo_Novicki_Neto_cv.pdf">Curriculum vitæ</a></h2>
 
-<p>• NI PXIe-8115 Controller;</p>
-
-<p>• NI PXIe-1085 Chassis with CAN modules (National Instruments);</p>
-
-<p>• Vehicle Radar Test System (VRTS) (Konrad Technologies);</p>
-
-<p>• Video Interface Box (IPG Automotive);</p>
-
-<p>• Camera-Box (<a href="https://ieeexplore.ieee.org/document/8519598">article</a>);</p>
-
-<p>• Environment Simulation Software CarMaker (IPG Automotive);</p>
-
-<p>As it can be seen, the setup is a hardware-in-the-Loop test environment, in which real sensors (radar and camera) are stimulated so that they can perceive the objects in the environment simulation software (CarMaker).</p>
+<h2 id="education">Education</h2>
 </div><section class="page__comments d-print-none"></section></article><!-- start custom main bottom snippet -->
 
 <!-- end custom main bottom snippet -->

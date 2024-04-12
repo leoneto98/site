@@ -9,7 +9,7 @@ titles:
   en-AU   : *EN
 
   # @end locale config
-key: team
+key: index
 aside:
   toc: true
 ---
@@ -27,14 +27,14 @@ aside:
     <div class="item__description">
       <p>
     
-I hold a Bachelor's degree in Physics from the Federal University of Paraná (UFPR), driven by my passion for science and technology. Transitioning into the tech and data market, I pursued a Master's degree in Electrical Engineering at UFPR, conducting my research at the CARISSMA Institute of Automated Driving in Germany under the supervision of Professors Eduardo Parente Ribeiro and Werner Hurber.
-</p>
-
-My research focused on creating a multimodal dataset for autonomous vehicles, consisting of real-world test track data and corresponding digital twins. Working with ROS (Robot Operating System), MATLAB, and Python, I developed expertise in data acquisition, manipulation, and transformation across various formats. I gained hands-on experience in Computer Vision, annotating dataset images using object detection algorithms like YOLO and OpenCV, and implementing genetic algorithms for supervised data projection.
-My work also involved an analysis using semantic segmentation algorithms to assess the simulation-to-reality gap
+Passionate about science and technology, I have always had a keen interest in mathematics and uncovering the truths hidden behind the numbers. Since I was a kid, I've loved figuring things out on my own, like fixing broken stuff and discovering the wonders of physics.
 
 </p>
+Here you can find more informations about my education and my projects.
+
+
     </div>
   </div>
 </div>
-[CV Lattes]( https://lattes.cnpq.br/0231870257297632)
+
+### [Curriculum vitæ (CV)](Leonardo_Novicki_Neto_cv.pdf)

@@ -1,64 +1,44 @@
 header:
   - titles:
+      # @start locale config
+      en      : &EN       Bio
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+ 
+      # @end locale config
+    url: /bio.html
+  - titles:
       # Título do tutorial nas diferentes localidades
-      en      : &EN       Sensors Setup
+      en      : &EN       Master
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
       # Adicione outras localidades, se necessário
-    url     : /sensors.html  # URL da página do tutorial
+    url     : /master.html  # URL da página do tutorial
 
 
 
   - titles:
       # Título do tutorial nas diferentes localidades
-      en      : &EN       Scenarios
+      en      : &EN       Projects
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
       # Adicione outras localidades, se necessário
-    url     : /scenarios.html  # URL da página do tutorial
+    url     : /projects.html  # URL da página do tutorial
     
   - titles:
       # Título do tutorial nas diferentes localidades
-      en      : &EN       Facilities
+      en      : &EN       Contact
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
       # Adicione outras localidades, se necessário
-    url     : /facility.html  # URL da página do tutorial
+    url     : /contact.html  # URL da página do tutorial
 
-  - titles:
-      # @start locale config
-      en      : &EN       Team
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
- 
-      # @end locale config
-    url: /team.html
 
-  - titles:
-      # Título do tutorial nas diferentes localidades
-      en      : &EN       Tutorial
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # Adicione outras localidades, se necessário
-    url     : /tutorial.html  # URL da página do tutorial
-
-  - titles:
-      # @start locale config
-      en      : &EN       Download
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
- 
-      # @end locale config
-    url: /download.html
